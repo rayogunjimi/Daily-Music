@@ -1,27 +1,27 @@
 {
     "genres" : [
         {
-            "path":"hiphop.txt",
+            "path":"artists/hiphop.txt",
             "name":"Hip-Hop"
         },
         {
-            "path":"rap.txt",
+            "path":"artists/rap.txt",
             "name":"Rap"
         },
         {
-            "path":"rnb.txt",
+            "path":"artists/rnb.txt",
             "name":"R&B"
         },
         {
-            "path":"rock.txt",
+            "path":"artists/rock.txt",
             "name":"Rock"
         },
         {
-            "path":"pop.txt",
+            "path":"artists/pop.txt",
             "name":"Pop"
         },
         {
-            "path":"classical.txt",
+            "path":"artists/classical.txt",
             "name":"classical"
         }
     ]
