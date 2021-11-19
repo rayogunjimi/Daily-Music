@@ -1,0 +1,28 @@
+{
+    "genres" : [
+        {
+            "path":"hiphop.txt",
+            "name":"Hip-Hop"
+        },
+        {
+            "path":"rap.txt",
+            "name":"Rap"
+        },
+        {
+            "path":"rnb.txt",
+            "name":"R&B"
+        },
+        {
+            "path":"rock.txt",
+            "name":"Rock"
+        },
+        {
+            "path":"pop.txt",
+            "name":"Pop"
+        },
+        {
+            "path":"classical.txt",
+            "name":"classical"
+        }
+    ]
+}
